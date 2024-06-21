@@ -70,6 +70,6 @@ A weather dashboard application built with Next.js. It allows users to search fo
 
 ## VisualDemo
 
-[Watch the Video](./weather-dashboard/public/Assets/weather-dashboard.mp4)
+![Watch the Video](./weather-dashboard/public/Assets/weather-dashboard.mp4)
 ![Screenshot](./weather-dashboard/public/Assets/weather-dashboard-homepage.png)
 ![Screenshot](./weather-dashboard/public/Assets/weather-dashboard-detailsPage.png)
